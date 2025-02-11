@@ -1,5 +1,5 @@
 ### Hello 👋
-I'm Paula. I am a Business Computer Science student based in Germany.
+I'm Paula. 
 <!--
 **paulastock/paulastock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
